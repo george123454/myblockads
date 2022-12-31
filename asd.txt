@@ -6,3 +6,5 @@
 0.0.0.0 static1.freebitco.in
 0.0.0.0 ad.a-ads.com
 0.0.0.0 financeritual.com
+0.0.0.0 wsecurely.com
+0.0.0.0 cdn.cloudimagesb.com
