@@ -1,0 +1,8 @@
+0.0.0.0 click.a-ads.com
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 s3t3d2y8.afcdn.net
+0.0.0.0 progamerage.com
+0.0.0.0 freebitco.in
+0.0.0.0 static1.freebitco.in
+0.0.0.0 ad.a-ads.com
+0.0.0.0 financeritual.com
