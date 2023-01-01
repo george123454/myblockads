@@ -9,31 +9,19 @@
 0.0.0.0 wsecurely.com
 0.0.0.0 cdn.cloudimagesb.com
 0.0.0.0 msmonplat.trafficmanager.net
-
 0.0.0.0 cdn.spotxcdn.com
-
 0.0.0.0 ads.api.vungle.com
-
 0.0.0.0 fp.msedge.net
-
 0.0.0.0 cdn.adnxs.com
-
 0.0.0.0 widgets.outbrain.com
-
 0.0.0.0 adbroker.mp.dse.microsoft.com
-
 0.0.0.0 api.taboola.com
-
 0.0.0.0 api.vungle.com
-
 0.0.0.0 ads.aerserv.com
-
 0.0.0.0 prod-ads.aerserv.com
-
 0.0.0.0 aerserv-ads.trafficmanager.net
-
 0.0.0.0 pips.taboola.com
-
 0.0.0.0 mcg-msmonplat.trafficmanager.net
-
 0.0.0.0 ads.inmobi.com
+0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 pagead2.googlesyndication.com
